@@ -17,7 +17,7 @@ cd stocksite
 - Also, planning to integrate GPTs and R1 models
 
 ## Tech Stack (Still need to decide)
-- **Backend**: (Still need to decide)
-- **Frontend**: (Still need to decide)
+- **Backend**: (Still need to decide).
+- **Frontend**: (Still need to decide).
 - **Database**: SQLite
 - **APIs**: yfinance, Alpha Vantage, Google Finance, GPTs, R1
