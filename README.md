@@ -16,8 +16,8 @@ cd stocksite
 - Include data from Yahoo Finance, Google Finance, or Twitter for analysis.
 - Also, planning to integrate GPTs and R1 models
 
-## Tech Stack (Still need to decide)
-- **Backend**: (Still need to decide).
-- **Frontend**: (Still need to decide).
+## Tech Stack
+- **Backend**: NodeJs.
+- **Frontend**: ReactJS.
 - **Database**: SQLite
 - **APIs**: yfinance, Alpha Vantage, Google Finance, GPTs, R1
